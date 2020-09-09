@@ -1,0 +1,22 @@
+{
+  "bank": [
+    {
+      "id": 1,
+      "name": "abc",
+      "address": "Rohini, New Delhi",
+      "email": "abc@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "def",
+      "address": "Rohini, New Delhi",
+      "email": "def@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "pqr",
+      "address": "Rohini, New Delhi",
+      "email": "pqr@gmail.com"
+    }
+  ]
+}
